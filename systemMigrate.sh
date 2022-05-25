@@ -3,7 +3,6 @@
 #
 # A Linux system migration tool 
 #
-# Date: October 2021
 # Author: Bryan Ritchie
 # 
 # Migration Strategy:
