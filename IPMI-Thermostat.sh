@@ -1,12 +1,13 @@
 #!/bin/bash
 
-# IPMITemp.sh
 
 # *-----------------------------------------------------------------------
+# IPMI-Thermostat.sh
+#
 # Control the server temperature via IMPI calls
 #
 # Works by checking the temperature reported by the ambient temp sensor,
-# and set the fan speed accordingly
+# and sets the fan speed accordingly
 #
 # Requires:
 # ipmitool (`apt install ipmitool`)
